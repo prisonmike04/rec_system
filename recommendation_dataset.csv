@@ -1,0 +1,26 @@
+user_id,series,genre,description,image_url,preferred_genres,watch_time
+1,Stranger Things,Sci-Fi,A group of kids uncover supernatural mysteries.,https://via.placeholder.com/200?text=Stranger+Things,"Sci-Fi, Thriller",30
+2,Game of Thrones,Fantasy,A battle for the Iron Throne in Westeros.,https://via.placeholder.com/200?text=Game+of+Thrones,"Fantasy, Drama",31
+3,The Office,Comedy,A mockumentary about office life.,https://via.placeholder.com/200?text=The+Office,"Comedy, Drama",25
+4,Breaking Bad,Drama,A teacher turns to cooking meth.,https://via.placeholder.com/200?text=Breaking+Bad,"Drama, Action",39
+5,The Mandalorian,Sci-Fi,A bounty hunter in the Star Wars universe.,https://via.placeholder.com/200?text=The+Mandalorian,"Sci-Fi, Fantasy",16
+6,WandaVision,Fantasy,Superheroes with hidden dark secrets.,https://via.placeholder.com/200?text=WandaVision,"Fantasy, Sci-Fi",5
+7,The Witcher,Fantasy,A monster hunter in a magical realm.,https://via.placeholder.com/200?text=The+Witcher,"Fantasy, Drama",36
+8,The Boys,Drama,Superheroes behaving badly.,https://via.placeholder.com/200?text=The+Boys,"Drama, Comedy",34
+9,Friends,Comedy,The life of six friends in New York.,https://via.placeholder.com/200?text=Friends,"Comedy, Drama",39
+10,The Crown,Drama,The reign of Queen Elizabeth II.,https://via.placeholder.com/200?text=The+Crown,"Drama, Mystery",13
+11,Dark,Mystery,Time travel and family secrets.,https://via.placeholder.com/200?text=Dark,"Mystery, Sci-Fi",35
+12,Money Heist,Action,A heist led by 'The Professor'.,https://via.placeholder.com/200?text=Money+Heist,"Action, Drama",17
+13,Peaky Blinders,Crime,The rise of a gangster family.,https://via.placeholder.com/200?text=Peaky+Blinders,"Crime, Drama",31
+14,Sherlock,Mystery,A brilliant detective solves crimes.,https://via.placeholder.com/200?text=Sherlock,"Mystery, Crime",18
+15,Brooklyn Nine-Nine,Comedy,Hilarious antics in a police precinct.,https://via.placeholder.com/200?text=Brooklyn+Nine-Nine,"Comedy, Action",11
+16,Loki,Sci-Fi,The god of mischief on adventures.,https://via.placeholder.com/200?text=Loki,"Sci-Fi, Action",14
+17,The Expanse,Sci-Fi,Space exploration at its best.,https://via.placeholder.com/200?text=The+Expanse,"Sci-Fi, Drama",48
+18,The Walking Dead,Horror,Survival in a zombie apocalypse.,https://via.placeholder.com/200?text=The+Walking+Dead,"Horror, Drama",27
+19,House of Cards,Drama,Political intrigue in Washington.,https://via.placeholder.com/200?text=House+of+Cards,"Drama, Thriller",10
+20,Black Mirror,Thriller,Exploring dystopian futures.,https://via.placeholder.com/200?text=Black+Mirror,"Thriller, Sci-Fi",16
+21,Succession,Drama,Corporate power struggles.,https://via.placeholder.com/200?text=Succession,"Drama, Action",47
+22,Mad Men,Drama,Advertising industry drama.,https://via.placeholder.com/200?text=Mad+Men,"Drama, Comedy",10
+23,How I Met Your Mother,Comedy,A romantic comedy of friendship.,https://via.placeholder.com/200?text=How+I+Met+Your+Mother,"Comedy, Romance",10
+24,Ozark,Thriller,Crime and family in the Ozarks.,https://via.placeholder.com/200?text=Ozark,"Thriller, Drama",32
+25,Better Call Saul,Drama,The legal world after Breaking Bad.,https://via.placeholder.com/200?text=Better+Call+Saul,"Drama, Legal",42

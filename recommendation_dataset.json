@@ -1,0 +1,428 @@
+{
+    "users": [
+        {
+            "user_id": 1,
+            "series": "Stranger Things",
+            "genre": "Sci-Fi",
+            "description": "A group of kids uncover supernatural mysteries.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn2.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcQjang2tSfHU_olHQ-m_gzuGMDV-h1wMsAsoagx_ho5GW2KksCy&psig=AOvVaw02KwUfj4bCsAXBb02nKtoc&ust=1732297143098000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCYnPD77YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Sci-Fi, Thriller",
+            "watch_time": {
+                "Monday": 3,
+                "Tuesday": 2,
+                "Wednesday": 0,
+                "Thursday": 3,
+                "Friday": 5,
+                "Saturday": 3,
+                "Sunday": 2
+            }
+        },
+        {
+            "user_id": 2,
+            "series": "Game of Thrones",
+            "genre": "Fantasy",
+            "description": "A battle for the Iron Throne in Westeros.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcS_C1zvb87cxPL28JSRzOFw1SAHMMKARQ2fswLBb6L17zy-f9h7&psig=AOvVaw0GFB64bvd_cKvss8elgXiN&ust=1732297253981000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjw2qT87YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Fantasy, Drama",
+            "watch_time": {
+                "Monday": 3,
+                "Tuesday": 5,
+                "Wednesday": 0,
+                "Thursday": 0,
+                "Friday": 3,
+                "Saturday": 0,
+                "Sunday": 4
+            }
+        },
+        {
+            "user_id": 3,
+            "series": "The Office",
+            "genre": "Comedy",
+            "description": "A mockumentary about office life.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcT1rLm86VJA7Tcf4ZjWQE6FrXCh9lvUu3RzeNIEDH2YqD3ta8BG&psig=AOvVaw2Yr6S8EwHgCHCwYVMYIpzf&ust=1732297277918000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDMgbD87YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Comedy, Drama",
+            "watch_time": {
+                "Monday": 2,
+                "Tuesday": 1,
+                "Wednesday": 3,
+                "Thursday": 1,
+                "Friday": 5,
+                "Saturday": 2,
+                "Sunday": 3
+            }
+        },
+        {
+            "user_id": 4,
+            "series": "Breaking Bad",
+            "genre": "Drama",
+            "description": "A teacher turns to cooking meth.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSBmR1UfShiKt6vY3J9tjztfpJvB7qM3xIQ_-TUF25_zZYzoTfz&psig=AOvVaw1pt21Wc5aQuUleN0x3IGkw&ust=1732297325834000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLDo7Mb87YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Drama, Action",
+            "watch_time": {
+                "Monday": 4,
+                "Tuesday": 1,
+                "Wednesday": 1,
+                "Thursday": 4,
+                "Friday": 5,
+                "Saturday": 3,
+                "Sunday": 1
+            }
+        },
+        {
+            "user_id": 5,
+            "series": "The Mandalorian",
+            "genre": "Sci-Fi",
+            "description": "A bounty hunter in the Star Wars universe.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSzNSiBdF8NduudcXQBx-L3sZ4acmAyjCUDAb8Q2W_RpRYgGD59&psig=AOvVaw2jaRhQKcJLBBOmrqJ72Xz0&ust=1732297362014000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIipitj87YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Sci-Fi, Fantasy",
+            "watch_time": {
+                "Monday": 3,
+                "Tuesday": 5,
+                "Wednesday": 5,
+                "Thursday": 1,
+                "Friday": 3,
+                "Saturday": 5,
+                "Sunday": 1
+            }
+        },
+        {
+            "user_id": 6,
+            "series": "WandaVision",
+            "genre": "Fantasy",
+            "description": "Superheroes with hidden dark secrets.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt9140560%2F&psig=AOvVaw0uYI1mcx-BEjxc1ki8T7oC&ust=1732297408665000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCLre787YkDFQAAAAAdAAAAABAI",
+            "preferred_genres": "Fantasy, Sci-Fi",
+            "watch_time": {
+                "Monday": 2,
+                "Tuesday": 0,
+                "Wednesday": 2,
+                "Thursday": 1,
+                "Friday": 4,
+                "Saturday": 5,
+                "Sunday": 2
+            }
+        },
+        {
+            "user_id": 7,
+            "series": "The Witcher",
+            "genre": "Fantasy",
+            "description": "A monster hunter in a magical realm.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcTNNGFmvY5-pDEUVEDTBrAORhP8GZ85OCNX69Q0ILjY8gRnc_Bq&psig=AOvVaw16uiFBKF1Br5rZ7xAevxtf&ust=1732297455639000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiY3IT97YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Fantasy, Drama",
+            "watch_time": {
+                "Monday": 1,
+                "Tuesday": 2,
+                "Wednesday": 4,
+                "Thursday": 2,
+                "Friday": 4,
+                "Saturday": 2,
+                "Sunday": 1
+            }
+        },
+        {
+            "user_id": 8,
+            "series": "The Boys",
+            "genre": "Drama",
+            "description": "Superheroes behaving badly.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSNwLiJ1sRV1TQYB6PRCQ3lVKVaEmd3HvRvXoNEJnt9cojIjf4n&psig=AOvVaw1Ri3e9BTUAicC92fSmZ7Db&ust=1732297478379000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDA3p_97YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Drama, Comedy",
+            "watch_time": {
+                "Monday": 0,
+                "Tuesday": 1,
+                "Wednesday": 4,
+                "Thursday": 4,
+                "Friday": 3,
+                "Saturday": 0,
+                "Sunday": 4
+            }
+        },
+        {
+            "user_id": 9,
+            "series": "Friends",
+            "genre": "Comedy",
+            "description": "The life of six friends in New York.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcTSbMoYCKmdh_l5iuEqVXpCHTbqEZM-yoG1KO-b8VY2IhZJUk39&psig=AOvVaw00wSEKxmjLhnFckmvlor5A&ust=1732297550317000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCB8bH97YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Comedy, Drama",
+            "watch_time": {
+                "Monday": 3,
+                "Tuesday": 2,
+                "Wednesday": 0,
+                "Thursday": 0,
+                "Friday": 1,
+                "Saturday": 3,
+                "Sunday": 5
+            }
+        },
+        {
+            "user_id": 10,
+            "series": "The Crown",
+            "genre": "Drama",
+            "description": "The reign of Queen Elizabeth II.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcQauSsP-Enb9M4LHYGAm62_WjtPA_pgviPr0HnSKs7bhUJo9_bh&psig=AOvVaw1wcvVwoJEOOVovhUCmSThd&ust=1732297572827000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJibyrz97YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Drama, Mystery",
+            "watch_time": {
+                "Monday": 2,
+                "Tuesday": 4,
+                "Wednesday": 0,
+                "Thursday": 5,
+                "Friday": 2,
+                "Saturday": 3,
+                "Sunday": 2
+            }
+        },
+        {
+            "user_id": 11,
+            "series": "Dark",
+            "genre": "Mystery",
+            "description": "Time travel and family secrets.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcTnPXL0OklxeuT6B2J1jLwJX9Uhczxwa0SX27UiE6cj0GDFq0zO&psig=AOvVaw3OntftavHO-i-eva0q-EVE&ust=1732297597190000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjkmMj97YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Mystery, Sci-Fi",
+            "watch_time": {
+                "Monday": 3,
+                "Tuesday": 5,
+                "Wednesday": 5,
+                "Thursday": 2,
+                "Friday": 3,
+                "Saturday": 2,
+                "Sunday": 0
+            }
+        },
+        {
+            "user_id": 12,
+            "series": "Money Heist",
+            "genre": "Action",
+            "description": "A heist led by 'The Professor'.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcRVT28hbIianT2cWHA_zyg17yzAQRfq5FaSeyG05RU4HdEXJ6yY&psig=AOvVaw0TeDtXZzyd1VqqVWKD14dT&ust=1732297623667000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjJ3dX97YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Action, Drama",
+            "watch_time": {
+                "Monday": 3,
+                "Tuesday": 3,
+                "Wednesday": 0,
+                "Thursday": 0,
+                "Friday": 5,
+                "Saturday": 5,
+                "Sunday": 5
+            }
+        },
+        {
+            "user_id": 13,
+            "series": "Peaky Blinders",
+            "genre": "Crime",
+            "description": "The rise of a gangster family.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn2.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcQlXYTWdFgKPpuRtDYwLWWFmIk8RyoMj7wxNrB9wygwvOhkp3xx&psig=AOvVaw1tfHZ8dmGNYs5NbzWYwFhc&ust=1732297650967000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKie8eH97YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Crime, Drama",
+            "watch_time": {
+                "Monday": 0,
+                "Tuesday": 0,
+                "Wednesday": 3,
+                "Thursday": 5,
+                "Friday": 3,
+                "Saturday": 4,
+                "Sunday": 2
+            }
+        },
+        {
+            "user_id": 14,
+            "series": "Sherlock",
+            "genre": "Mystery",
+            "description": "A brilliant detective solves crimes.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn2.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSFXmE6cRQjMvHbAHU2HALzpQR7wVo48gzyrG6OWY5Si2tM3Qc1&psig=AOvVaw0ANQlOsqiK7kC60IaYQTKV&ust=1732297675820000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMC_6e397YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Mystery, Crime",
+            "watch_time": {
+                "Monday": 1,
+                "Tuesday": 2,
+                "Wednesday": 2,
+                "Thursday": 2,
+                "Friday": 1,
+                "Saturday": 2,
+                "Sunday": 2
+            }
+        },
+        {
+            "user_id": 15,
+            "series": "Brooklyn Nine-Nine",
+            "genre": "Comedy",
+            "description": "Hilarious antics in a police precinct.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn2.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcST_jFvNxEXeT5s4zZNYso5ChhaAkgvZqTgiFUxaE6A_X3XAFbD&psig=AOvVaw3KpY30jpc3fGKX0c4GuBX_&ust=1732297698917000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJio4vj97YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Comedy, Action",
+            "watch_time": {
+                "Monday": 2,
+                "Tuesday": 1,
+                "Wednesday": 1,
+                "Thursday": 4,
+                "Friday": 2,
+                "Saturday": 4,
+                "Sunday": 5
+            }
+        },
+        {
+            "user_id": 16,
+            "series": "Loki",
+            "genre": "Sci-Fi",
+            "description": "The god of mischief on adventures.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcStuhyop-i0Ld-YvRc4e4AtvwFRjOGCQT8W165zospxSJMloEt2&psig=AOvVaw1iwjNt5WquW3js0T29XLZg&ust=1732297720749000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOimnYP-7YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Sci-Fi, Action",
+            "watch_time": {
+                "Monday": 4,
+                "Tuesday": 1,
+                "Wednesday": 4,
+                "Thursday": 2,
+                "Friday": 2,
+                "Saturday": 3,
+                "Sunday": 5
+            }
+        },
+        {
+            "user_id": 17,
+            "series": "The Expanse",
+            "genre": "Sci-Fi",
+            "description": "Space exploration at its best.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcRryFRflaBMYBLmbcPoE6VKVE_B-nwOoIOqaUSchdxHxs4T5TyY&psig=AOvVaw2s5_zMc21tgg6Xl0Aeh26B&ust=1732297747118000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODK3Y_-7YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Sci-Fi, Drama",
+            "watch_time": {
+                "Monday": 4,
+                "Tuesday": 2,
+                "Wednesday": 1,
+                "Thursday": 2,
+                "Friday": 4,
+                "Saturday": 3,
+                "Sunday": 3
+            }
+        },
+        {
+            "user_id": 18,
+            "series": "The Walking Dead",
+            "genre": "Horror",
+            "description": "Survival in a zombie apocalypse.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcRnffbMc5E4fzyEteXfT7eXZqktv9nI-ddvVX2qPEJ2xaq0Z12t&psig=AOvVaw02u1Tm2_172C-pKduLHYoJ&ust=1732297769391000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICH3Zr-7YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Horror, Drama",
+            "watch_time": {
+                "Monday": 0,
+                "Tuesday": 5,
+                "Wednesday": 4,
+                "Thursday": 0,
+                "Friday": 0,
+                "Saturday": 0,
+                "Sunday": 2
+            }
+        },
+        {
+            "user_id": 19,
+            "series": "House of Cards",
+            "genre": "Drama",
+            "description": "Political intrigue in Washington.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcS2nrKY65qm1xdeXzzhBO1Do4ENu5qSAz2pl1_UXBgH-Oxz-ht-&psig=AOvVaw3RjyWt6MtCa-wk2OEO3zg8&ust=1732297794871000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCgwKb-7YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Drama, Thriller",
+            "watch_time": {
+                "Monday": 0,
+                "Tuesday": 4,
+                "Wednesday": 2,
+                "Thursday": 4,
+                "Friday": 1,
+                "Saturday": 2,
+                "Sunday": 5
+            }
+        },
+        {
+            "user_id": 20,
+            "series": "Black Mirror",
+            "genre": "Thriller",
+            "description": "Exploring dystopian futures.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcQwGQYa5x5KeA9X3ZWpdAmmCCm0Kh2g5q2mOazyvKuzpib_QJ-a&psig=AOvVaw26srCS3mB3smaRWm7epZQq&ust=1732297827732000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDMq7b-7YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Thriller, Sci-Fi",
+            "watch_time": {
+                "Monday": 2,
+                "Tuesday": 2,
+                "Wednesday": 5,
+                "Thursday": 5,
+                "Friday": 4,
+                "Saturday": 1,
+                "Sunday": 2
+            }
+        },
+        {
+            "user_id": 21,
+            "series": "Succession",
+            "genre": "Drama",
+            "description": "Corporate power struggles.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn2.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSLFrD0R9tlvhQtYDUFj_pIo3E4TUJp4PpHj5mZt7o2b4xmJG3B&psig=AOvVaw1lI_9qiIFL92GkGDX1Fh9E&ust=1732297848176000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiZ97_-7YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Drama, Action",
+            "watch_time": {
+                "Monday": 3,
+                "Tuesday": 5,
+                "Wednesday": 0,
+                "Thursday": 3,
+                "Friday": 4,
+                "Saturday": 4,
+                "Sunday": 4
+            }
+        },
+        {
+            "user_id": 22,
+            "series": "Mad Men",
+            "genre": "Drama",
+            "description": "Advertising industry drama.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSKD5Hi-BnAxl-AxFesD-I-e1STJ7_46YykDQ1092JYUOb1cTOM&psig=AOvVaw0QT5UvoOzUiHc1jPL5BE2L&ust=1732297867415000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLDAi8n-7YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Drama, Comedy",
+            "watch_time": {
+                "Monday": 1,
+                "Tuesday": 0,
+                "Wednesday": 5,
+                "Thursday": 2,
+                "Friday": 2,
+                "Saturday": 1,
+                "Sunday": 4
+            }
+        },
+        {
+            "user_id": 23,
+            "series": "How I Met Your Mother",
+            "genre": "Comedy",
+            "description": "A romantic comedy of friendship.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSKwOwpxrspAghwtY8DCRpYz9sZUXTGgF-9XoYjce5QBKx37JDE&psig=AOvVaw20gvAQm6TFUfiCfzzxil28&ust=1732297886590000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCjntL-7YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Comedy, Romance",
+            "watch_time": {
+                "Monday": 2,
+                "Tuesday": 1,
+                "Thursday": 2,
+                "Friday": 2,
+                "Saturday": 1,
+                "Sunday": 4
+            }
+        },
+        {
+            "user_id": 24,
+            "series": "Ozark",
+            "genre": "Thriller",
+            "description": "Crime and family in the Ozarks.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcT3h5hP9hpngPsXeom2Curz3fc9u2lQInaZERtwVe9RcMI9g3ta&psig=AOvVaw2aLRmsvU_J4foIMscEEIwD&ust=1732298067771000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNi51aj_7YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Thriller, Drama",
+            "watch_time": {
+                "Monday": 5,
+                "Tuesday": 0,
+                "Wednesday": 2,
+                "Thursday": 3,
+                "Friday": 4,
+                "Saturday": 4,
+                "Sunday": 2
+            }
+        },
+        {
+            "user_id": 25,
+            "series": "Better Call Saul",
+            "genre": "Drama",
+            "description": "The legal world after Breaking Bad.",
+            "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcTG3TEEIpvFTY3C_vry9OmMmOT2r5-CthMXd21Uyc_0uBj_S-Hi&psig=AOvVaw2oM4gjcabAHtjEMejpcHn0&ust=1732298088351000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiB7sD_7YkDFQAAAAAdAAAAABAE",
+            "preferred_genres": "Drama, Legal",
+            "watch_time": {
+                "Monday": 5,
+                "Tuesday": 3,
+                "Wednesday": 5,
+                "Thursday": 0,
+                "Friday": 4,
+                "Saturday": 5,
+                "Sunday": 1
+            }
+        }
+    ]
+}
